@@ -1,0 +1,10 @@
+Query Image:
+./dupes/IMG_4738.JPG
+Compare with:
+./dupes/IMG_4737.JPG
+./dupes/IMG_4739.JPG
+./dupes/IMG_4740.JPG
+./dupes/IMG_4742.JPG
+./dupes/IMG_4743.JPG
+./dupes/IMG_4728.JPG
+./dupes/IMG_4729.JPG
